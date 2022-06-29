@@ -1,4 +1,4 @@
-# 👋 Hi, here is @magician-do
+# 👋 Hi, here is Aidan Yang
 
 - 🚩 Location:  China  
 - 🧑 Pronouns: He
