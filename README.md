@@ -13,9 +13,8 @@
 
 | 💡 Projects | ⭐ Stars |
 |   :-----:   |  :-----:  |
-| [FormulaSynchron](https://github.com/magician-do/FormulaSynchron) | ![GitHub stars](https://img.shields.io/github/stars/magician-do/FormulaSynchron) |
-| [QQbot-Waiter](https://github.com/magician-do/QQbot-Waiter) | ![GitHub stars](https://img.shields.io/github/stars/magician-do/QQbot-Waiter) |
-| [Screeps-AI](https://github.com/magician-do/Screeps-AI) | ![GitHub stars](https://img.shields.io/github/stars/magician-do/Screeps-AI) |
+| [FormulaSynchron](https://github.com/AidanYang0618/FormulaSynchron) | ![GitHub stars](https://img.shields.io/github/stars/magician-do/FormulaSynchron) |
+| [Screeps-AI](https://github.com/AidanYang0618/Screeps-AI) | ![GitHub stars](https://img.shields.io/github/stars/magician-do/Screeps-AI) |
 
 ### Common using languages:
 
